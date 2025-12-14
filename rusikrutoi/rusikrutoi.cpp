@@ -30,7 +30,7 @@ void writeStringsToFile(const vector<string>& strings, const string& filename) {
 }
 
 int main() {
-    
+    setlocale(LC_ALL, "Russian");
     // === ВРЕМЕННЫЙ ТЕСТ ДЛЯ ОТЛАДКИ - УДАЛИТЬ ПЕРЕД СЛИЯНИЕМ ===
     cout << "=== Тестирование функций вывода ===" << endl;
     vector<string> testStrings = {"Тестовая строка 1", "Вторая строка", "Третья строка"};
