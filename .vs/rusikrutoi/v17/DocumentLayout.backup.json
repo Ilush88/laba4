@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\projects\\rusikrutoi\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\rusikrutoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E7330E3-A5EF-4D98-969A-9A222302E1DA}|rusikrutoi\\rusikrutoi.vcxproj|D:\\projects\\rusikrutoi\\rusikrutoi\\rusikrutoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8E7330E3-A5EF-4D98-969A-9A222302E1DA}|rusikrutoi\\rusikrutoi.vcxproj|C:\\Users\\User\\rusikrutoi\\rusikrutoi\\rusikrutoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8E7330E3-A5EF-4D98-969A-9A222302E1DA}|rusikrutoi\\rusikrutoi.vcxproj|solutionrelative:rusikrutoi\\rusikrutoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "rusikrutoi.cpp",
-              "DocumentMoniker": "D:\\projects\\rusikrutoi\\rusikrutoi\\rusikrutoi.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\rusikrutoi\\rusikrutoi\\rusikrutoi.cpp",
               "RelativeDocumentMoniker": "rusikrutoi\\rusikrutoi.cpp",
-              "ToolTip": "D:\\projects\\rusikrutoi\\rusikrutoi\\rusikrutoi.cpp",
+              "ToolTip": "C:\\Users\\User\\rusikrutoi\\rusikrutoi\\rusikrutoi.cpp",
               "RelativeToolTip": "rusikrutoi\\rusikrutoi.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-13T14:15:16.877Z",
               "EditorCaption": ""
