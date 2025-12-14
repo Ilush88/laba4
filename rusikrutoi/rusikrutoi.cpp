@@ -31,13 +31,7 @@ void writeStringsToFile(const vector<string>& strings, const string& filename) {
 
 int main() {
     setlocale(LC_ALL, "Russian");
-    // === ВРЕМЕННЫЙ ТЕСТ ДЛЯ ОТЛАДКИ - УДАЛИТЬ ПЕРЕД СЛИЯНИЕМ ===
-    cout << "=== Тестирование функций вывода ===" << endl;
-    vector<string> testStrings = {"Тестовая строка 1", "Вторая строка", "Третья строка"};
-    printStrings(testStrings);
-    writeStringsToFile(testStrings, "test_output.txt");
-    cout << "=== Тест завершен ===" << endl;
-    // === ДО ЭТОГО МОМЕНТА УДАЛИТЬ ===
+
 
     string inputFilename = "input.txt";
     string outputFilename = "output.txt";
